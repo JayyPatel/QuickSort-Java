@@ -1,1 +1,2 @@
 # QuickSort-Java
+### This project sorts the list of integers using "in place" quicksort algorithm. The unsorted list is randomply generated and various choices are made to choose pivot for 4 cases. The elapsed time for sorting is displayed for each case. The project contain two .java files (Quicksort.java and main.java). The unsorted.txt and sorted.txt files are created in project folder. The program runs with no error, and is build using Eclipse IDE.
